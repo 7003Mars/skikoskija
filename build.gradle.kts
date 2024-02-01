@@ -6,7 +6,7 @@ plugins {
 group = "me.mars"
 version = "1.0-SNAPSHOT"
 
-val lib by extra(Type.Skija)
+val lib by extra(Type.Skiko)
 val lwjglVer by extra("3.3.1")
 
 repositories {

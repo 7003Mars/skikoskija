@@ -1,11 +1,11 @@
 package me.mars
 
 // Skija
-import io.github.humbleui.skija.DirectContext
-import io.github.humbleui.skija.impl.Library
+//import io.github.humbleui.skija.DirectContext
+//import io.github.humbleui.skija.impl.Library
 // Skiko
-//import org.jetbrains.skia.DirectContext
-//import org.jetbrains.skiko.Library
+import org.jetbrains.skia.DirectContext
+import org.jetbrains.skiko.Library
 
 
 import org.lwjgl.glfw.GLFW.*
